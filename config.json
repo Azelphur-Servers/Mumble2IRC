@@ -1,0 +1,9 @@
+{
+	"mumblehost": "127.0.0.1",
+	"mumbleport": 6502,
+	"mumbleDisplayName": "mumble.azelphur.com:64738",
+	"ircnick": "`MurmurBot",
+	"ircchannel": "#azelphur",
+	"irchost": "localhost",
+	"ircport": 6667
+}

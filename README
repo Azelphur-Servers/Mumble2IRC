@@ -1,0 +1,7 @@
+IRC:
+* Relies on Twisted
+
+Mumble:
+* Relies on /usr/share/slice/Murmur.ice (e.g. as provided by mumble-server package)
+* Relies on python-zeroc-ice package for Ice module
+* Run "slice2py /usr/share/slice/Murmur.ice -I/usr/share/Ice-3.5.1/slice" to get the Murmur import
